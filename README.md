@@ -4,7 +4,7 @@ Math functions for neural network implementation. The name and semantic of the M
 
 To install:
 
-1. go get https://github.com/jonysugianto/mathlib
+1. go get github.com/jonysugianto/mathlib
 
 2. a) cd example 
 
